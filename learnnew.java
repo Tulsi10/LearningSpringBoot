@@ -6,6 +6,9 @@ System.out.println("Test");
 
 System.out.println("Ria");
 
+System.out.println("Rez");
+
+
 }
 
 }
