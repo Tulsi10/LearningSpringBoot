@@ -10,6 +10,9 @@ public class test {
 		System.out.println("Learn Git in Detail");
 		
 		System.out.println("Learn Gits in Detail");
+		
+		
+		System.out.println("Rickshaws in details");
 
 		
 	}
