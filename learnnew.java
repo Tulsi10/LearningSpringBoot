@@ -17,6 +17,15 @@ System.out.println("Rezx");
   
   System.out.println("Aaaaaaaaaaaa");
 >>>>>>> branch 'test1' of https://github.com/Tulsi10/LearningSpringBoot.git
+  
+  
+  System.out.println("Rezx");
+
+  
+  System.out.println("Rezx");
+
+  System.out.println("Rezx");
+
 
 }
 
