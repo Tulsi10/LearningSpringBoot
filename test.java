@@ -15,6 +15,8 @@ public class test {
 		System.out.println("Rickshaws in details");
 
 		
+		System.out.println("Love in details");
+		
 	}
 	
 
